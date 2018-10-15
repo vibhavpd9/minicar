@@ -4,7 +4,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 
 
-$config['base_url'] = 'http://localhost/';        // Please type your Project URL;
+$config['base_url'] = 'http://localhost/minicar_master/';        // Please type your Project URL;
 
 /*
 |--------------------------------------------------------------------------
