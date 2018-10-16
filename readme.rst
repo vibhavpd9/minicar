@@ -1,4 +1,10 @@
 ###################
+Mini Car Inventory
+###################
+mcinvent.sql:sql file which is located in this project.
+
+
+###################
 What is CodeIgniter
 ###################
 
