@@ -22,7 +22,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	
-	<title><?php echo $setting_site_name; ?></title>
+	<title>Mini Car Inventory</title>
 
 	<link href="<?=base_url()?>assets/css/bootstrap.min.css" rel="stylesheet">
 	<link href="<?=base_url()?>assets/css/datepicker3.css" rel="stylesheet">
@@ -89,7 +89,7 @@
 	
 	
 	<div class="login_footer">
-		<div class="copy">&copy; <?php echo date('Y', time()); ?> - <?php echo $setting_site_name; ?> - All Rights Reserved.</div>
+		<div class="copy">&copy; <?php echo date('Y', time()); ?> - Mini Car Inventory - All Rights Reserved.</div>
 	</div>
 	
 	
